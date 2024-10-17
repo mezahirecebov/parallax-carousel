@@ -1,11 +1,22 @@
 {
-  "name": "parallax-carousel",
-  "version": "1.0.0",
+  "name": "react-native-parallax-carousel",
+  "version": "1.0.2",
   "description": "A React Native carousel component with parallax effect.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
   "author": "Mezahir Rajabov",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "carousel",
+    "react-native",
+    "parallax",
+    "animated-carousel",
+    "react-native-carousel",
+    "react",
+    "slider",
+    "parallax-slider",
+    "scroll-animation"
+  ]
 }

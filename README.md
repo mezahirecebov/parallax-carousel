@@ -5,7 +5,7 @@ A React Native carousel component with a parallax effect.
 ## Installation
 
 ```bash
-npm install parallax-carousel
+npm install react-native-parallax-carousel
 ```
 
 ## Usage
@@ -24,10 +24,14 @@ import ParallaxCarousel from "parallax-carousel";
 
 ## Props
 
-data: Array of items to display in the carousel.
-renderItem: Function to render each item.
-initialIndex: Index of the initial item to display.
-itemWidth: Width of each carousel item.
-itemSpacing: Space between carousel items.
+### Props
 
-MIT License
+- **data**: `Array` of items to display in the carousel.
+- **renderItem**: `Function` to render each item.
+- **initialIndex**: `Number` representing the index of the initial item to display.
+- **itemWidth**: `Number` representing the width of each carousel item.
+- **itemSpacing**: `Number` representing the space between carousel items.
+
+## License
+
+This project is licensed under the MIT License.
